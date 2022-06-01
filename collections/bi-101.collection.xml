@@ -1,0 +1,128 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col26221</md:content-id>
+    <md:title>BI 101</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>053f3b26-2843-4d20-9073-ae756138611c</md:uuid>
+<md:slug>bi-101</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction to Biology</md:title>
+      <col:content>
+        <col:module document="m66428"/>
+        <col:module document="m45421"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Evidence of Evolution</md:title>
+      <col:content>
+        <col:module document="m71331"/>
+        <col:module document="m44568"/>
+        <col:module document="m44574"/>
+        <col:module document="m66716"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Processes of Evolution</md:title>
+      <col:content>
+        <col:module document="m66523"/>
+        <col:module document="m44584"/>
+        <col:module document="m44586"/>
+        <col:module document="m66530"/>
+        <col:module document="m44591"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Origin and Evolution of Life</md:title>
+      <col:content>
+        <col:module document="m66552"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Prokaryotic Diversity</md:title>
+      <col:content>
+        <col:module document="m48060"/>
+        <col:module document="m48064"/>
+        <col:module document="m66540"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Protists</md:title>
+      <col:content>
+        <col:module document="m48073"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Plants</md:title>
+      <col:content>
+        <col:module document="m45517"/>
+        <col:module document="m45518"/>
+        <col:module document="m48092"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fungi</md:title>
+      <col:content>
+        <col:module document="m44622"/>
+        <col:module document="m66559"/>
+        <col:module document="m66560"/>
+        <col:module document="m66562"/>
+        <col:module document="m44629"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Animal Invertebrates</md:title>
+      <col:content>
+        <col:module document="m66577"/>
+        <col:module document="m45524"/>
+        <col:module document="m45525"/>
+        <col:module document="m45526"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Chordates</md:title>
+      <col:content>
+        <col:module document="m45531"/>
+        <col:module document="m45532"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Populations</md:title>
+      <col:content>
+        <col:module document="m45552"/>
+        <col:module document="m45553"/>
+        <col:module document="m45554"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Community Interactions</md:title>
+      <col:content>
+        <col:module document="m44878"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ecosystems</md:title>
+      <col:content>
+        <col:module document="m45558"/>
+        <col:module document="m66705"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Biosphere</md:title>
+      <col:content>
+        <col:module document="m66420"/>
+        <col:module document="m45562"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Human Effects on the Biosphere</md:title>
+      <col:content>
+        <col:module document="m45571"/>
+        <col:module document="m44896"/>
+        <col:module document="m44898"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

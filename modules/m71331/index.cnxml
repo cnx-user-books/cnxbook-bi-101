@@ -1,0 +1,208 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Atoms, Isotopes, Ions, and Molecules: The Building Blocks</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71331</md:content-id>
+  <md:title>Atoms, Isotopes, Ions, and Molecules: The Building Blocks</md:title>
+  <md:abstract>By the end of this section, you will be able to do the following:
+<list>
+<item>Define matter and elements</item>
+<item>Describe the interrelationship between protons, neutrons, and electrons</item>
+<item>Compare the ways in which electrons can be donated or shared between atoms</item>
+<item>Explain the ways in which naturally occurring elements combine to create molecules, cells, tissues, organ systems, and organisms</item>
+</list></md:abstract>
+  <md:uuid>2974e4f1-384b-40e5-995e-a4161b0e457a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp140338804205648">At its most fundamental level, life is made up of matter. <term>Matter</term> is any substance that occupies space and has mass. <term>Elements</term> are unique forms of matter with specific chemical and physical properties that cannot break down into smaller substances by ordinary chemical reactions. There are 118 elements, but only 98 occur naturally. The remaining elements are unstable and require scientists to synthesize them in laboratories.</para>
+<para id="fs-idp140338796754528">Each element is designated by its chemical symbol, which is a single capital letter or, when the first letter is already “taken” by another element, a combination of two letters. Some elements follow the English term for the element, such as C for carbon and Ca for calcium. Other elements’ chemical symbols derive from their Latin names. For example, the symbol for sodium is Na, referring to <emphasis effect="italics">natrium</emphasis>, the Latin word for sodium.</para>
+<para id="fs-idp140338796747920">The four elements common to all living organisms are oxygen (O), carbon (C), hydrogen (H), and nitrogen (N). In the nonliving world, elements are found in different proportions, and some elements common to living organisms are relatively rare on the earth as a whole, as <link target-id="tab-ch02_01_01" document=""/> shows. For example, the atmosphere is rich in nitrogen and oxygen but contains little carbon and hydrogen, while the earth’s crust, although it contains oxygen and a small amount of hydrogen, has little nitrogen and carbon. In spite of their differences in abundance, all elements and the chemical reactions between them obey the same chemical and physical laws regardless of whether they are a part of the living or nonliving world.</para>
+<table id="tab-ch02_01_01" summary="">
+<tgroup cols="4" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4">Approximate Percentage of Elements in Living Organisms (Humans) Compared to the Nonliving World</entry>
+</row>
+<row>
+<entry>Element</entry>
+<entry align="center">Life (Humans)</entry>
+<entry align="center">Atmosphere</entry>
+<entry align="center">Earth’s Crust</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Oxygen (O)</entry>
+<entry align="center">65%</entry>
+<entry align="center">21%</entry>
+<entry align="center">46%</entry>
+</row>
+<row>
+<entry>Carbon (C)</entry>
+<entry align="center">18%</entry>
+<entry align="center">trace</entry>
+<entry align="center">trace</entry>
+</row>
+<row>
+<entry>Hydrogen (H)</entry>
+<entry align="center">10%</entry>
+<entry align="center">trace</entry>
+<entry align="center">0.1%</entry>
+</row>
+<row>
+<entry>Nitrogen (N)</entry>
+<entry align="center">3%</entry>
+<entry align="center">78%</entry>
+<entry align="center">trace</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section id="fs-idp140338804778560">
+<title>The Structure of the Atom</title>
+<para id="fs-idp140338798858736">To understand how elements come together, we must first discuss the element's smallest component or building block, the atom. An <term>atom</term> is the smallest unit of matter that retains all of the element's chemical properties. For example, one gold atom has all of the properties of gold in that it is a solid metal at room temperature. A gold coin is simply a very large number of gold atoms molded into the shape of a coin and contains small amounts of other elements known as impurities. We cannot break down gold atoms into anything smaller while still retaining the properties of gold.</para>
+<para id="fs-idp140338804724160">An atom is composed of two regions: the <term>nucleus</term>, which is in the atom's center and contains protons and neutrons. The atom's outermost region holds its electrons in orbit around the nucleus, as <link target-id="fig-ch02_01_01" document=""/> illustrates. Atoms contain protons, electrons, and neutrons, among other subatomic particles. The only exception is hydrogen (H), which is made of one proton and one electron with no neutrons.</para>
+<figure id="fig-ch02_01_01" class=" "><media id="fs-idp140338808766608" alt="This illustration shows that, like planets orbiting the sun, electrons orbit the nucleus of an atom. The nucleus contains two neutrally charged neutrons, and two positively charged protons represented by spheres. A single, circular orbital surrounding the nucleus contains two negatively charged electrons on opposite sides.">
+<image mime-type="image/jpg" src="../../media/Figure_02_01_01.jpg" width="320"/>
+</media>
+<caption>Elements, such as helium, depicted here, are made up of atoms. Atoms are made up of protons and neutrons located within the nucleus, with electrons in orbitals surrounding the nucleus.</caption>
+</figure>
+<para id="fs-idp140338797859808">Protons and neutrons have approximately the same mass, about 1.67 × 10<sup>-24</sup> grams. Scientists arbitrarily define this amount of mass as one atomic mass unit (amu) or one Dalton, as <link target-id="tab-ch02_01_02" document=""/> shows. Although similar in mass, protons and neutrons differ in their electric charge. A <term>proton</term> is positively charged; whereas, a <term>neutron</term> is uncharged. Therefore, the number of neutrons in an atom contributes significantly to its mass, but not to its charge. <term>Electrons</term> are much smaller in mass than protons, weighing only 9.11 × 10<sup>-28</sup> grams, or about 1/1800 of an atomic mass unit. Hence, they do not contribute much to an element’s overall atomic mass. Therefore, when considering atomic mass, it is customary to ignore the mass of any electrons and calculate the atom’s mass based on the number of protons and neutrons alone. Although not significant contributors to mass, electrons do contribute greatly to the atom’s charge, as each electron has a negative charge equal to the proton's positive charge. In uncharged, neutral atoms, the number of electrons orbiting the nucleus is equal to the number of protons inside the nucleus. In these atoms, the positive and negative charges cancel each other out, leading to an atom with no net charge.</para>
+<para id="fs-idp140338796885040">Accounting for the sizes of protons, neutrons, and electrons, most of the atom's volume—greater than 99 percent—is empty space. With all this empty space, one might ask why so-called solid objects do not just pass through one another. The reason they do not is that the electrons that surround all atoms are negatively charged and negative charges repel each other.</para>
+<table id="tab-ch02_01_02" summary="">
+<tgroup cols="4" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4">Protons, Neutrons, and Electrons</entry>
+</row>
+<row>
+<entry/>
+<entry>Charge</entry>
+<entry>Mass (amu)</entry>
+<entry>Location</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Proton</entry>
+<entry>+1</entry>
+<entry>1</entry>
+<entry>nucleus</entry>
+</row>
+<row>
+<entry>Neutron</entry>
+<entry>0</entry>
+<entry>1</entry>
+<entry>nucleus</entry>
+</row>
+<row>
+<entry>Electron</entry>
+<entry>–1</entry>
+<entry>0</entry>
+<entry>orbitals</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-idp140338797638496">
+<title>Atomic Number and Mass</title>
+<para id="fs-idp140338804903648">Atoms of each element contain a characteristic number of protons and electrons. The number of protons determines an element’s <term>atomic number</term>, which scientists use to distinguish one element from another. The number of neutrons is variable, resulting in isotopes, which are different forms of the same atom that vary only in the number of neutrons they possess. Together, the number of protons and neutrons determine an element’s <term>mass number</term>, as <link target-id="fig-ch02_01_02" document=""/> illustrates. Note that we disregard the small contribution of mass from electrons in calculating the mass number. We can use this approximation of mass to easily calculate how many neutrons an element has by simply subtracting the number of protons from the mass number. Since an element’s isotopes will have slightly different mass numbers, scientists also determine the <term>atomic mass</term>, which is the calculated mean of the mass number for its naturally occurring isotopes. Often, the resulting number contains a fraction. For example, the atomic mass of chlorine (Cl) is 35.45 because chlorine is composed of several isotopes, some (the majority) with atomic mass 35 (17 protons and 18 neutrons) and some with atomic mass 37 (17 protons and 20 neutrons).</para>
+<note id="fs-idp140338797508864" class="visual-connection"><label/><title>Visual Connection</title>
+<figure id="fig-ch02_01_02" class=" "><media id="fs-idp140338805808048" alt="Carbon is indicated by its atomic symbol, a capital C. Carbon has the atomic number six and two stable isotopes, carbon-12 and carbon-13.">
+<image mime-type="image/png" src="../../media/Figure_02_01_02.png" width="295"/>
+</media>
+<caption>Carbon has an atomic number of six, and two stable isotopes with mass numbers of twelve and thirteen, respectively. Its relative atomic mass is 12.011</caption>
+</figure>
+<para id="fs-idp140338796658000">How many neutrons do carbon-12 and carbon-13 have, respectively?</para>
+<!--<para><link target-id="fig-ch02_01_02" document=""/> Carbon-12 has six neutrons. Carbon-13 has seven neutrons.</para>-->
+</note></section>
+<section id="fs-idp140338797488784"><title>Isotopes</title>
+<para id="fs-idp140338796413104"><term>Isotopes</term> are different forms of an element that have the same number of protons but a different number of neutrons. Some elements—such as carbon, potassium, and uranium—have naturally occurring isotopes. Carbon-12 contains six protons, six neutrons, and six electrons; therefore, it has a mass number of 12 (six protons and six neutrons). Carbon-14 contains six protons, eight neutrons, and six electrons; its atomic mass is 14 (six protons and eight neutrons). These two alternate forms of carbon are isotopes. Some isotopes may emit neutrons, protons, and electrons, and attain a more stable atomic configuration (lower level of potential energy); these are radioactive isotopes, or <term>radioisotopes</term>. Radioactive decay (carbon-14 decaying to eventually become nitrogen-14) describes the energy loss that occurs when an unstable atom’s nucleus releases radiation.</para>
+<note id="fs-idp140338797060096" class="evolution">
+<label/>
+<title>Evolution Connection</title>
+<para id="eip-idm257115376">
+<title>Carbon Dating</title>
+Carbon is normally present in the atmosphere in the form of gaseous compounds like carbon dioxide and methane. Carbon-14 (<sup>14</sup>C) is a naturally occurring radioisotope that is created in the atmosphere from atmospheric <sup>14</sup>N (nitrogen) by the addition of a neutron and the loss of a proton because of cosmic rays. This is a continuous process, so more <sup>14</sup>C is always being created. As a living organism incorporates <sup>14</sup>C initially as carbon dioxide fixed in the process of photosynthesis, the relative amount of <sup>14</sup>C in its body is equal to the concentration of <sup>14</sup>C in the atmosphere. When an organism dies, it is no longer ingesting <sup>14</sup>C, so the ratio between <sup>14</sup>C and <sup>12</sup>C will decline as <sup>14</sup>C decays gradually to <sup>14</sup>N by a process called beta decay—electrons or positrons emission. This decay emits energy in a slow process.</para>
+<para id="fs-idp140338807733920">After approximately 5,730 years, half of the starting concentration of <sup>14</sup>C will convert back to <sup>14</sup>N. We call the time it takes for half of the original concentration of an isotope to decay back to its more stable form its half-life. Because the half-life of <sup>14</sup>C is long, scientists use it to date formerly living objects such as old bones or wood. Comparing the ratio of the <sup>14</sup>C concentration in an object to the amount of <sup>14</sup>C in the atmosphere, scientists can determine the amount of the isotope that has not yet decayed. On the basis of this amount, <link target-id="fig-ch02_01_03" document=""/> shows that we can calculate the age of the material, such as the pygmy mammoth, with accuracy if it is not much older than about 50,000 years. Other elements have isotopes with different half lives. For example, <sup>40</sup>K (potassium-40) has a half-life of 1.25 billion years, and <sup>235</sup>U (Uranium 235) has a half-life of about 700 million years. Through the use of radiometric dating, scientists can study the age of fossils or other remains of extinct organisms to understand how organisms have evolved from earlier species.</para>
+<figure id="fig-ch02_01_03" class=" "><media id="fs-idp140338805026128" alt="Photo shows scientists unearthing a mammoth skeleton.">
+<image mime-type="image/jpg" src="../../media/Figure_02_01_03.jpg" width="320"/>
+</media>
+<caption>Scientists can determine the age of carbon-containing remains less than about 50,000 years old, such as this pygmy mammoth, using carbon dating. (credit: Bill Faulkner, NPS)</caption>
+</figure></note>
+<note id="fs-idp140338796300736" class="interactive"><label/><title>Link to Learning</title>
+<para id="fs-idp140338804817312">To learn more about atoms, isotopes, and how to tell one isotope from another, run the simulation.<newline/>
+<media id="eip-id1165071748010" alt="atoms_isotopes">
+<iframe width="660" height="371.4" src="https://openstax.org/l/atoms_isotopes"/>
+</media>
+</para></note></section><section id="fs-idp140338806222736">
+<title>The Periodic Table</title>
+<para id="fs-idp140338800663552">The <term>periodic table</term> organizes and displays different elements. Devised by Russian chemist Dmitri Mendeleev (1834–1907) in 1869, the table groups elements that, although unique, share certain chemical properties with other elements. The properties of elements are responsible for their physical state at room temperature: they may be gases, solids, or liquids. Elements also have specific <term>chemical reactivity</term>, the ability to combine and to chemically bond with each other.</para>
+<para id="fs-idp140338796612976">In the periodic table in <link target-id="fig-ch02_01_04" document=""/>, the elements are organized and displayed according to their atomic number and are arranged in a series of rows and columns based on shared chemical and physical properties. In addition to providing the atomic number for each element, the periodic table also displays the element’s atomic mass. Looking at carbon, for example, its symbol (C) and name appear, as well as its atomic number of six (in the upper left-hand corner) and its atomic mass of 12.11.</para>
+<figure id="fig-ch02_01_04" class=" "><media id="fs-idp140338805019840" alt="The periodic table consists of eighteen groups and seven periods.  Each element has its own square.  Within each square is the following information; the atomic number, the symbol, the relative atomic mass, and the name.  For example, hydrogen's atomic number is 1, symbol is the letter H; relative atomic mass is 1.01, and name is hydrogen. Two additional rows of elements, known as the lanthanides and actinides, are placed beneath the main table. The lanthanides include elements 57 through 71 and belong in period seven between groups three and four. The actinides include elements 89 through 98 and belong in period eight between the same groups. These elements are placed separately to make the table more compact. For each element, the name, atomic symbol, atomic number, and atomic mass are provided. The atomic number is a whole number that represents the number of protons. The atomic mass, which is the average mass of different isotopes, is estimated to two decimal places.  The elements are divided into three categories: metals, nonmetals and metalloids. These form a diagonal line from period two, group thirteen to period seven, group sixteen. All elements to the left of the metalloids are metals, and all elements to the right are nonmetals.">
+<image mime-type="image/png" src="../../media/Figure_02_01_04.png" width="575"/>
+</media>
+
+<caption>The periodic table shows each element's atomic mass and atomic number. The atomic number appears above the symbol for the element and the approximate atomic mass appears below it.</caption></figure><para id="fs-idp140338796755936">The periodic table groups elements according to chemical properties. Scientists base the differences in chemical reactivity between the elements on the number and spatial distribution of an atom’s electrons. Atoms that chemically react and bond to each other form molecules. <term>Molecules</term> are simply two or more atoms chemically bonded together. Logically, when two atoms chemically bond to form a molecule, their electrons, which form the outermost region of each atom, come together first as the atoms form a chemical bond.</para>
+</section>
+<section id="fs-idp140338803665584" class="summary">
+<title>Section Summary</title>
+<para id="fs-idp140338803666464">Matter is anything that occupies space and has mass. It is comprised of elements. All of the 98 elements that occur naturally have unique qualities that allow them to combine in various ways to create molecules, which in turn combine to form cells, tissues, organ systems, and organisms. Atoms, which consist of protons, neutrons, and electrons, are the smallest units of an element that retain all of the properties of that element. Electrons can transfer, share, or cause charge disparities between atoms to create bonds, including ionic, covalent, and hydrogen bonds, as well as van der Waals interactions.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp140338803648912"><term>anion</term> <meaning id="fs-idp140338803649424">negative ion that is formed by an atom gaining one or more electrons</meaning></definition>
+<definition id="fs-idp140338803649808"><term>atom</term> <meaning id="fs-idp140338803650320">the smallest unit of matter that retains all of the chemical properties of an element</meaning></definition>
+<definition id="fs-idp140338803650704"><term>atomic mass</term> <meaning id="fs-idp140338803651216">calculated mean of the mass number for an element’s isotopes</meaning></definition>
+<definition id="fs-idp140338806032208"><term>atomic number</term> <meaning id="fs-idp140338806032720">total number of protons in an atom</meaning></definition>
+<definition id="fs-idp140338806033104"><term>balanced chemical equation</term> <meaning id="fs-idp140338806033616">statement of a chemical reaction with the number of each type of atom equalized for both the products and reactants</meaning></definition>
+<definition id="fs-idp140338806034128"><term>cation</term> <meaning id="fs-idp140338806034640">positive ion that is formed by an atom losing one or more electrons</meaning></definition>
+<definition id="fs-idp140338806035024"><term>chemical bond</term> <meaning id="fs-idp140338805990896">interaction between two or more of the same or different atoms that results in forming molecules</meaning></definition>
+<definition id="fs-idp140338805991408"><term>chemical reaction</term> <meaning id="fs-idp140338805991920">process leading to rearranging atoms in molecules</meaning></definition>
+<definition id="fs-idp140338805992304"><term>chemical reactivity</term> <meaning id="fs-idp140338805992816">the ability to combine and to chemically bond with each other</meaning></definition>
+<definition id="fs-idp140338805993200"><term>compound</term> <meaning id="fs-idp140338806003728">substance composed of molecules consisting of atoms of at least two different elements</meaning></definition>
+<definition id="fs-idp140338806004112"><term>covalent bond</term> <meaning id="fs-idp140338806004624">type of strong bond formed between two atoms of the same or different elements; forms when electrons are shared between atoms</meaning></definition>
+<definition id="fs-idp140338806005136"><term>electrolyte</term> <meaning id="fs-idp140338806005648">ion necessary for nerve impulse conduction, muscle contractions, and water balance</meaning></definition>
+<definition id="fs-idp140338806006032"><term>electron</term> <meaning id="fs-idp140338806006544">negatively charged subatomic particle that resides outside of the nucleus in the electron orbital; lacks functional mass and has a negative charge of –1 unit</meaning></definition>
+<definition id="fs-idp140338806006928"><term>electron configuration</term> <meaning id="fs-idp140338806008112">arrangement of electrons in an atom’s electron shell (for example, 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>)</meaning></definition>
+<definition id="fs-idp140338806009808"><term>electron orbital</term> <meaning id="fs-idp140338806010320">how electrons are spatially distributed surrounding the nucleus; the area where we are most likely to find an electron</meaning></definition>
+<definition id="fs-idp140338805630048"><term>electron transfer</term> <meaning id="fs-idp140338805630560">movement of electrons from one element to another; important in creating ionic bonds</meaning></definition>
+<definition id="fs-idp140338805630944"><term>electronegativity</term> <meaning id="fs-idp140338805631456">ability of some elements to attract electrons (often of hydrogen atoms), acquiring partial negative charges in molecules and creating partial positive charges on the hydrogen atoms</meaning></definition>
+<definition id="fs-idp140338805632032"><term>element</term> <meaning id="fs-idp140338805632544">one of 118 unique substances that cannot break down into smaller substances; each element has unique properties and a specified number of protons</meaning></definition>
+<definition id="fs-idp140338805633088"><term>equilibrium</term> <meaning id="fs-idp140338804756672">steady state of relative reactant and product concentration in reversible chemical reactions in a closed system</meaning></definition>
+<definition id="fs-idp140338804757184"><term>hydrogen bond</term> <meaning id="fs-idp140338804757696">weak bond between slightly positively charged hydrogen atoms and slightly negatively charged atoms in other molecules</meaning></definition>
+<definition id="fs-idp140338804758208"><term>inert gas</term> <meaning id="fs-idp140338804758720">(also, noble gas) element with filled outer electron shell that is unreactive with other atoms</meaning></definition>
+<definition id="fs-idp140338804759104"><term>ion</term> <meaning id="fs-idp140338804759616">atom or chemical group that does not contain equal numbers of protons and electrons</meaning></definition>
+<definition id="fs-idp140338804760000"><term>ionic bond</term> <meaning id="fs-idp140338803636192">chemical bond that forms between ions with opposite charges (cations and anions)</meaning></definition>
+<definition id="fs-idp140338803636576"><term>irreversible chemical reaction</term> <meaning id="fs-idp140338803637088">chemical reaction where reactants proceed unidirectionally to form products</meaning></definition>
+<definition id="fs-idp140338803637472"><term>isotope</term> <meaning id="fs-idp140338803637984">one or more forms of an element that have different numbers of neutrons</meaning></definition>
+<definition id="fs-idp140338803638368"><term>law of mass action</term> <meaning id="fs-idp140338803638880">chemical law stating that the rate of a reaction is proportional to the concentration of the reacting substances</meaning></definition>
+<definition id="fs-idp140338805008352"><term>mass number</term> <meaning id="fs-idp140338805008864">total number of protons and neutrons in an atom</meaning></definition>
+<definition id="fs-idp140338805009248"><term>matter</term> <meaning id="fs-idp140338805009760">anything that has mass and occupies space</meaning></definition>
+<definition id="fs-idp140338805010144"><term>molecule</term> <meaning id="fs-idp140338805010656">two or more atoms chemically bonded together</meaning></definition>
+<definition id="fs-idp140338805011040"><term>neutron</term> <meaning id="fs-idp140338805011552">uncharged particle that resides in an atom's nucleus; has a mass of one amu</meaning></definition>
+<definition id="fs-idp140338805011936"><term>noble gas</term> <meaning id="fs-idp140338805862288">see inert gas</meaning></definition>
+<definition id="fs-idp140338805862672"><term>nonpolar covalent bond</term> <meaning id="fs-idp140338805863184">type of covalent bond that forms between atoms when electrons are shared equally between them</meaning></definition>
+<definition id="fs-idp140338805863568"><term>nucleus</term> <meaning id="fs-idp140338805864080">core of an atom; contains protons and neutrons</meaning></definition>
+<definition id="fs-idp140338805864464"><term>octet rule</term> <meaning id="fs-idp140338805864976">rule that atoms are most stable when they hold eight electrons in their outermost shells</meaning></definition>
+<definition id="fs-idp140338805865360"><term>orbital</term> <meaning id="fs-idp140338809358384">region surrounding the nucleus; contains electrons</meaning></definition>
+<definition id="fs-idp140338809358768"><term>periodic table</term> <meaning id="fs-idp140338809359280">organizational chart of elements indicating each element's atomic number and atomic mass; provides key information about the elements' properties</meaning></definition>
+<definition id="fs-idp140338809359840"><term>polar covalent bond</term> <meaning id="fs-idp140338809360352">type of covalent bond that forms as a result of unequal electron sharing, resulting in creating slightly positive and negative charged molecule regions</meaning></definition>
+<definition id="fs-idp140338809360928"><term>product</term> <meaning id="fs-idp140338809361440">molecule that is result of chemical reaction</meaning></definition>
+<definition id="fs-idp140338809361824"><term>proton</term> <meaning id="fs-idp140338799666672">positively charged particle that resides in the atom's nucleus; has a mass of one amu and a charge of +1</meaning></definition>
+<definition id="fs-idp140338799667184"><term>radioisotope</term> <meaning id="fs-idp140338799667696">isotope that emits radiation comprised of subatomic particles to form more stable elements</meaning></definition>
+<definition id="fs-idp140338799668192"><term>reactant</term> <meaning id="fs-idp140338799668704">molecule that takes part in a chemical reaction</meaning></definition>
+<definition id="fs-idp140338799669088"><term>reversible chemical reaction</term> <meaning id="fs-idp140338799669600">chemical reaction that functions bidirectionally, where products may turn into reactants if their concentration is great enough</meaning></definition>
+<definition id="fs-idp140338799670128"><term>valence shell</term> <meaning id="fs-idp140338797678928">outermost shell of an atom</meaning></definition>
+<definition id="fs-idp140338797679312"><term>van der Waals interaction</term> <meaning id="fs-idp140338797679824">very weak interaction between molecules due to temporary charges attracting atoms that are very close together</meaning></definition>
+</glossary>
+</document>
