@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Lena Green">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col26221</md:content-id>
     <md:title>BI 101</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>053f3b26-2843-4d20-9073-ae756138611c</md:uuid>
-<md:slug>bi-101</md:slug>
-</metadata>
+    <md:slug>bi-101</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Introduction to Biology</md:title>
